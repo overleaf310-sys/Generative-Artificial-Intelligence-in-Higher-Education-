@@ -1,0 +1,51 @@
+﻿Variable,Section,Item_Text_or_Label,Response_Options_and_Coding,Construct_or_Role
+C1,C,Consent,1 = Agree; 0 = Do not agree,Screening
+D1,D,Gender,1 = Female; 2 = Male; 3 = Prefer not to say,Demographic
+D2,D,Degree level,1 = BS; 2 = Master’s; 3 = PhD,Demographic
+D3,D,Major,1 = Law; 2 = Computer Science; 3 = Chemistry; 4 = Physics,Demographic
+D4,D,Institution,1 = University of SEBSI,Demographic
+G1,G,Previous GenAI use,0 = No; 1 = Yes,Predictor/control
+G2,G,Overall GenAI-use frequency,1 = Never; 2 = Rarely; 3 = Sometimes; 4 = Often; 5 = Very often,Usage
+G3.1,G,ChatGPT,1 = Not at all/I do not know; 2 = A little; 3 = Moderate; 4 = Quite a lot; 5 = A lot,Tool use
+G3.2,G,DeepSeek,1 = Not at all/I do not know; 2 = A little; 3 = Moderate; 4 = Quite a lot; 5 = A lot,Tool use
+G3.3,G,Gemini,1 = Not at all/I do not know; 2 = A little; 3 = Moderate; 4 = Quite a lot; 5 = A lot,Tool use
+G3.4,G,Claude AI,1 = Not at all/I do not know; 2 = A little; 3 = Moderate; 4 = Quite a lot; 5 = A lot,Tool use
+G3.5,G,Copilot,1 = Not at all/I do not know; 2 = A little; 3 = Moderate; 4 = Quite a lot; 5 = A lot,Tool use
+G3.6,G,Perplexity AI,1 = Not at all/I do not know; 2 = A little; 3 = Moderate; 4 = Quite a lot; 5 = A lot,Tool use
+G3.7,G,Meta AI,1 = Not at all/I do not know; 2 = A little; 3 = Moderate; 4 = Quite a lot; 5 = A lot,Tool use
+G3.8,G,MidJourney,1 = Not at all/I do not know; 2 = A little; 3 = Moderate; 4 = Quite a lot; 5 = A lot,Tool use
+G3.9,G,DALL·E 3,1 = Not at all/I do not know; 2 = A little; 3 = Moderate; 4 = Quite a lot; 5 = A lot,Tool use
+G3.10,G,Cursor,1 = Not at all/I do not know; 2 = A little; 3 = Moderate; 4 = Quite a lot; 5 = A lot,Tool use
+G3.11,G,Sora,1 = Not at all/I do not know; 2 = A little; 3 = Moderate; 4 = Quite a lot; 5 = A lot,Tool use
+A1,A,I understand the basic functions of generative AI tools.,1 = Strongly disagree ... 5 = Strongly agree,Awareness
+A2,A,I know how generative AI can support academic and research-related tasks.,1 = Strongly disagree ... 5 = Strongly agree,Awareness
+A3,A,I am aware that generative AI can produce inaccurate or fabricated information.,1 = Strongly disagree ... 5 = Strongly agree,Awareness
+A4,A,I know that AI-generated claims and references should be verified using credible sources.,1 = Strongly disagree ... 5 = Strongly agree,Awareness
+A5,A,"I understand that generative AI outputs may contain social, cultural, or disciplinary bias.",1 = Strongly disagree ... 5 = Strongly agree,Awareness
+A6,A,I am aware of privacy and confidentiality risks when entering information into AI tools.,1 = Strongly disagree ... 5 = Strongly agree,Awareness
+A7,A,I understand that the use of generative AI may need to be disclosed in academic work.,1 = Strongly disagree ... 5 = Strongly agree,Awareness
+A8,A,I am familiar with my university’s rules or guidance concerning the academic use of generative AI.,1 = Strongly disagree ... 5 = Strongly agree,Awareness
+T1,T,I believe generative AI can provide useful assistance for academic work.,1 = Strongly disagree ... 5 = Strongly agree,Trust
+T2,T,Generative AI can provide understandable explanations of difficult concepts.,1 = Strongly disagree ... 5 = Strongly agree,Trust
+T3,T,Generative AI can generate relevant preliminary ideas for assignments or research.,1 = Strongly disagree ... 5 = Strongly agree,Trust
+T4,T,Generative AI can provide useful summaries when its outputs are independently checked.,1 = Strongly disagree ... 5 = Strongly agree,Trust
+T5,T,Generative AI can improve the efficiency of academic tasks.,1 = Strongly disagree ... 5 = Strongly agree,Trust
+T6,T,I feel confident using generative AI as a preliminary information or research aid.,1 = Strongly disagree ... 5 = Strongly agree,Trust
+T7,T,I trust generative AI more when its information can be verified through credible sources.,1 = Strongly disagree ... 5 = Strongly agree,Trust
+T8,T,I am comfortable using AI-generated content after reviewing and verifying it myself.,1 = Strongly disagree ... 5 = Strongly agree,Trust
+E1,E,I am concerned that undisclosed use of generative AI may constitute plagiarism or academic misconduct.,1 = Strongly disagree ... 5 = Strongly agree,Ethical concerns
+E2,E,"I am concerned that generative AI may produce fabricated references, quotations, or facts.",1 = Strongly disagree ... 5 = Strongly agree,Ethical concerns
+E3,E,I am concerned about privacy or confidentiality when students enter sensitive information into AI tools.,1 = Strongly disagree ... 5 = Strongly agree,Ethical concerns
+E4,E,I am concerned that generative AI may reproduce biased or unfair content.,1 = Strongly disagree ... 5 = Strongly agree,Ethical concerns
+E5,E,I am concerned that excessive reliance on generative AI may weaken critical thinking and independent learning.,1 = Strongly disagree ... 5 = Strongly agree,Ethical concerns
+E6,E,I am concerned that responsibility for errors becomes unclear when academic work is AI-assisted.,1 = Strongly disagree ... 5 = Strongly agree,Ethical concerns
+E7,E,I am concerned that unequal access to advanced AI tools may create unfair academic advantages.,1 = Strongly disagree ... 5 = Strongly agree,Ethical concerns
+E8,E,I am concerned that inaccurate AI-generated outputs may mislead students in their academic work.,1 = Strongly disagree ... 5 = Strongly agree,Ethical concerns
+E9,E,I am concerned that students may not clearly understand when and how generative AI use should be disclosed.,1 = Strongly disagree ... 5 = Strongly agree,Ethical concerns
+W1,W,I am willing to use generative AI to generate preliminary ideas or brainstorm academic topics.,1 = Strongly disagree ... 5 = Strongly agree,Willingness
+W2,W,I am willing to use generative AI to explain or summarize difficult academic material.,1 = Strongly disagree ... 5 = Strongly agree,Willingness
+W3,W,"I am willing to use generative AI to improve the clarity, grammar, or organization of my writing.",1 = Strongly disagree ... 5 = Strongly agree,Willingness
+W4,W,I am willing to use generative AI for preliminary information searching or research planning.,1 = Strongly disagree ... 5 = Strongly agree,Willingness
+W5,W,"I am willing to use generative AI for problem-solving, coding, or discipline-specific academic support when relevant.",1 = Strongly disagree ... 5 = Strongly agree,Willingness
+W6,W,I would be more willing to use generative AI if my university provided clear rules and training.,1 = Strongly disagree ... 5 = Strongly agree,Willingness
+W7,W,I intend to use generative AI responsibly in future academic or research-related work.,1 = Strongly disagree ... 5 = Strongly agree,Willingness

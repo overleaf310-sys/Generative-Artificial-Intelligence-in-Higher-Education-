@@ -1,0 +1,20 @@
+﻿Variable,Category,Count,Percent
+Gender,Female,255,51.0
+Gender,Male,245,49.0
+Degree_Level,BS,452,90.4
+Degree_Level,MS/MPhil,40,8.0
+Degree_Level,PhD,8,1.6
+Major,Physics,90,18.0
+Major,Law,170,34.0
+Major,Computer Science,140,28.0
+Major,Chemistry,100,20.0
+Previous_AI_Use,Yes,390,78.0
+Previous_AI_Use,No,110,22.0
+Frequency_AI_Use,Rarely,95,19.0
+Frequency_AI_Use,Sometimes,170,34.0
+Frequency_AI_Use,Never,40,8.0
+Frequency_AI_Use,Very often,60,12.0
+Frequency_AI_Use,Often,135,27.0
+Willingness_Category,Moderate,272,54.4
+Willingness_Category,Low,19,3.8
+Willingness_Category,High,209,41.8
